@@ -26,4 +26,11 @@ export const languageOptions = [
   'Hindi',
 ];
 
-export const sortingOptions = ['Recommended', 'Popularity'];
+export const sortingOptions = [
+  'Recommended',
+  'Curated',
+  'Most Appreciated',
+  'Most Viewed',
+  'Most Discussed',
+  'Most Recent',
+];
